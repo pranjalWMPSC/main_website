@@ -1,0 +1,28 @@
+[09-Feb-2021 07:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[09-Feb-2021 09:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[09-Feb-2021 13:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[09-Feb-2021 16:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[10-Feb-2021 03:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[10-Feb-2021 04:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8
+[10-Feb-2021 06:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ipssc/public_html/covid/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipssc/public_html/covid/index.php on line 8

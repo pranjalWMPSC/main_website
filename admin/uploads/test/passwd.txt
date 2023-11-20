@@ -1,0 +1,55 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:99:99:Nobody:/:/sbin/nologin
+systemd-network:x:192:192:systemd Network Management:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+polkitd:x:999:998:User for polkitd:/:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+chrony:x:998:996::/var/lib/chrony:/sbin/nologin
+mysql:x:27:27:MariaDB Server:/var/lib/mysql:/sbin/nologin
+psaadm:x:997:1000:psa user:/usr/local/psa/admin:/usr/sbin/nologin
+sw-cp-server:x:996:995:sw-cp-server user:/var/lib/sw-cp-server:/bin/false
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+dovecot:x:995:1004:Dovecot IMAP server user:/usr/libexec/dovecot:/usr/sbin/nologin
+dovenull:x:994:1005:Dovecot login user:/:/usr/sbin/nologin
+named:x:25:25:Named:/var/named:/sbin/nologin
+saslauth:x:993:76:Saslauthd user:/run/saslauthd:/sbin/nologin
+ntp:x:38:38::/etc/ntp:/sbin/nologin
+popuser:x:30:30:POP3 service user:/var/qmail/popuser:/usr/sbin/nologin
+mhandlers-user:x:31:30:mail handlers user:/:/usr/sbin/nologin
+roundcube_sysuser:x:992:1006:roundcube webmail user:/usr/share/psa-roundcube:/usr/sbin/nologin
+webalizer:x:67:67:Webalizer:/var/www/usage:/sbin/nologin
+nginx:x:991:991:Nginx user:/var/lib/nginx:/bin/false
+psaftp:x:990:1007:anonftp psa user:/:/usr/sbin/nologin
+grafana:x:989:990:grafana user:/usr/share/grafana:/sbin/nologin
+ebiztech:x:10002:1003::/var/www/vhosts/ebiztech.co.in:/bin/false
+lyfindia:x:10013:1003::/var/www/vhosts/lyfindia.in:/bin/false
+all:x:10002:1003::/var/www/vhosts/ebiztech.co.in/httpdocs:/bin/false
+gwaliorimpact:x:10014:1003::/var/www/vhosts/gwaliorimpact.com:/bin/false
+login:x:10014:1003::/var/www/vhosts/gwaliorimpact.com/httpdocs:/bin/false
+lyf:x:10013:1003::/var/www/vhosts/lyfindia.in/httpdocs:/bin/false
+alfanzo:x:10015:1003::/var/www/vhosts/alfanzo.in:/bin/false
+yardstikk:x:10016:1003::/var/www/vhosts/yardstikk.com:/bin/false
+ebiztechnocrats:x:10017:1003::/var/www/vhosts/ebiztechnocrats.com:/bin/bash
+sysuser_d:x:10018:1003::/var/www/vhosts/lpwala.com:/bin/false
+plesk-ssh-terminal:x:988:988:Plesk SSH Terminal:/usr/local/psa/var/modules/ssh-terminal:/usr/sbin/nologin
+lpwala:x:10018:1003::/var/www/vhosts/lpwala.com/httpdocs:/bin/false
+taxsignup.com_ewsp9sieabi:x:10019:1003::/var/www/vhosts/taxsignup.com:/bin/false
+wmpsc.in_uar6kwskj5e:x:10020:1003::/var/www/vhosts/wmpsc.in:/bin/false
+ipscnew:x:10020:1003::/var/www/vhosts/wmpsc.in/httpdocs:/bin/false
+automobile:x:10002:1003::/var/www/vhosts/ebiztech.co.in/automobile.ebiztech.co.in:/bin/false
+mess:x:10015:1003::/var/www/vhosts/alfanzo.in/erp.alfanzo.in:/bin/false
+alfanzo_all:x:10015:1003::/var/www/vhosts/alfanzo.in:/bin/false
+deleivere.com_l41uupo4p4q:x:10021:1003::/var/www/vhosts/deleivere.com:/bin/false
+deleivere.com_l41uupo4p4q:x:10021:1003::/var/www/vhosts/deleivere.com:/bin/false
