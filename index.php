@@ -223,6 +223,7 @@ while($dataEvent = mysqli_fetch_array($exeEvent))
 <!DOCTYPE html>
 
 <html>
+<script src="https://desk.zoho.in/portal/api/feedbackwidget/130128000000210005?orgId=60025342157&displayType=embeded"></script>
 
 <head>
 
@@ -478,7 +479,7 @@ while($dataEvent = mysqli_fetch_array($exeEvent))
 						<a href="about.php" class="theme-btn btn-style-three">Read More</a>
 
 					</div>
-
+					<div id="zsfeedbackwidgetdiv"></div>
 				</div>
 
 				

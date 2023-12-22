@@ -103,6 +103,11 @@
 						<!-- <a href="Training_Calendar.pdf" class="ptext" target="_new">ToT & ToA Calender_2nd Quarter-2023_WMPSC</a>-->
 					<a href="admin/uploads/scroll/p2023010040.pdf" class="ptext" target="_blank">ToT / ToA Calendar Oct-Dec 2023</a>
 							</li>
+
+							<li>
+						<!-- <a href="Training_Calendar.pdf" class="ptext" target="_new">ToT & ToA Calender_2nd Quarter-2023_WMPSC</a>-->
+					<a href="https://forms.gle/dqArP4dPX77Mr5QbA" class="ptext" target="_blank">EXPRESSION OF INTEREST  (EOI) FOR SKILL DEVELOPMENT TRAINING IN ANDHRA PRADESH (STT)</a>
+							</li>
 								
 							<!--p style="font-size: 16px;"><strong style="color: red">Note:-</strong><span style="color: black;">This is to notify you that RFP subimission date has been extended till December 5th 2022.. Please refer to the updated RFP document for application.</span></p>
 								
