@@ -35,7 +35,7 @@ if(isset($_POST['submit']))
 
 
 $sql = "SELECT * FROM scroll_news order by scroll_news_id  DESC";
-$exe = mysqli_query($mysqli,$sql); $list=""; $i=1;
+$exe = mysqli_query($mysqli,$sql); $list=""; $i=2;
 while($arr = mysqli_fetch_array($exe))
 {
     $list .="<tr><td>$i</td><td>{$arr['title']}</td><td><a href='uploads/scroll/{$arr['attachment_path']}'>Download</a></td><td>{$arr['post_date']}</td><td><a class='btn btn-danger delete btn-xs' data-id='{$arr['scroll_news_id']}'><i class='fa fa-trash'></i> Delete</a> </td></tr>";
