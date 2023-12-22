@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/dmt7q0qy3ief/public_html/
-    - /bin/cp -r /home/dmt7q0qy3ief/repositories/main_website/* $DEPLOYPATH
+    - /bin/cp -r /home/dmt7q0qy3ief/repositories/main_websites/* $DEPLOYPATH
     # - export DEPLOYPATH=/home/dmt7q0qy3ief/public_html/
     # - /bin/cp -a * $DEPLOYPATH
     # - /bin/cp -r /home/dmt7q0qy3ief/public_html/* $DEPLOYPATH
