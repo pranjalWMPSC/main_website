@@ -12,7 +12,7 @@
 
 	{
 
-		$first_news .= "<a href='admin/uploads/scroll/{$dataA['attachment_path']}' target='_blank' style='font-size:18px;'>{$dataA['title']}</a>";
+		$first_news .= "<a href='{$dataA['attachment_path']}' target='_blank' style='font-size:18px;'>{$dataA['title']}</a>";
 
 	}
 
